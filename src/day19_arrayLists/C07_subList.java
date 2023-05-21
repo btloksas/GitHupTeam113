@@ -20,5 +20,6 @@ public class C07_subList {
         List<Integer> yeniList= sayilar.subList(3,5);
 
         System.out.println(yeniList);
+
     }
 }
